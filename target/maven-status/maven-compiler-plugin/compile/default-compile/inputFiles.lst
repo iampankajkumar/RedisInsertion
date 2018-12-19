@@ -1,0 +1,8 @@
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/RedisApp.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/service/RedisServiceImpl.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/dao/impl/RedisDaoImpl.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/controller/RedisController.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/dto/StPmPlayerMaster.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/service/RedisService.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/dao/repo/RedisDaoRepo.java
+/home/stpl/developer/bug_fixing/RedisInsertion/src/main/java/com/stpl/dao/RedisDao.java
